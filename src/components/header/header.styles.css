@@ -1,0 +1,33 @@
+.header {
+    background-color: red;
+    width: 100%;
+}
+
+.header ul {
+    text-decoration-style: none;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header ul li {
+    display: flex;
+    padding: 10px;
+}
+
+.header ul li a {
+    text-decoration-line: none;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.header ul li a:hover {
+    color: rgb(110, 109, 109);
+}
+
+/* 
+.header ul li a:active {
+    color: rgb(66, 27, 166);
+} */

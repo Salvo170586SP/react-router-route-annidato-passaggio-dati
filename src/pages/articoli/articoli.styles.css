@@ -1,0 +1,32 @@
+.articoli{
+    padding: 30px;
+    text-align: center;
+}
+
+.articoli ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    margin-top: 30px;
+}
+
+.articoli ul li {
+    padding: 0 20px;
+}
+
+.articoli-container{
+    display: flex;
+    justify-content: center;
+}
+
+.articoli-card{
+    background-color: blue;
+    color: white;
+    width: 200px;
+    margin: 10px;
+}
+
+.articoli-card a{
+     color: white;
+ }
